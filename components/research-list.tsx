@@ -130,9 +130,9 @@ export function ResearchList({ onResearchSelected, refreshTrigger }: ResearchLis
             <div className="w-16 h-16 bg-muted rounded-full flex items-center justify-center mx-auto mb-4">
               <Clock className="w-8 h-8 text-muted-foreground" />
             </div>
-            <h3 className="text-lg font-medium text-foreground mb-2">No Research Topics Yet</h3>
+            <h3 className="text-lg font-medium text-foreground mb-2">No Research Topics </h3>
             <p className="text-muted-foreground">
-              Submit your first research topic to get started with AI-powered research.
+              Submit your first research topic to get started with AI-powered research
             </p>
           </CardContent>
         </Card>

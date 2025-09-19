@@ -26,7 +26,7 @@ export function ResearchForm({ onSubmitted }: ResearchFormProps) {
     if (!topic.trim()) {
       toast({
         title: "Error",
-        description: "Please enter a research topic",
+        description: "Please enter  research topic",
         variant: "destructive",
       })
       return
