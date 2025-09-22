@@ -34,7 +34,7 @@ export default function HomePage() {
               <Brain className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-foreground">AI Research Agent</h1>
+              <h1 className="text-2xl font-bold text-foreground">AI  Research  Agent</h1>
               <p className="text-muted-foreground">Intelligent research automation platform</p>
             </div>
           </div>
