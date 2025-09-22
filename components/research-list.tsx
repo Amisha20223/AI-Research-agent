@@ -132,7 +132,7 @@ export function ResearchList({ onResearchSelected, refreshTrigger }: ResearchLis
             </div>
             <h3 className="text-lg font-medium text-foreground mb-2">No Research Topic </h3>
             <p className="text-muted-foreground">
-              Submit your first research topic to get started with AI-powered research
+              Submit your first research topic to get started with the AI-powered research
             </p>
           </CardContent>
         </Card>
