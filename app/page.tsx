@@ -63,8 +63,7 @@ export default function HomePage() {
                 <CardHeader>
                   <CardTitle>Submit New Research Topic</CardTitle>
                   <CardDescription>
-                    Enter a research topic and our AI agent will gather relevant information, analyze articles, and
-                    provide structured results with detailed workflow logs.
+                    enter 
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
